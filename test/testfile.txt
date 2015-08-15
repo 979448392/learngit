@@ -1,0 +1,2 @@
+this is a text file to test delete.
+I am a file builted by gaoliang.
